@@ -12,7 +12,6 @@
         android:id="@+id/amountText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/roundededittext"
         android:textColorHint="#020202"
         android:textStyle="bold"
         android:layout_margin="10dp"
@@ -23,7 +22,6 @@
 
     <Button
         android:id="@+id/paytmButton"
-        android:background="@drawable/roundedbtn"
         android:textColor="#ffffff"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
